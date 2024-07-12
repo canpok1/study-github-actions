@@ -1,6 +1,6 @@
 # 練習問題3
 
-`.github/workflows/run-on-push.yml` を編集して全て満たすように作り変えてください。
+`.github/workflows/run-on-push.yml` を編集して以下を全て満たすように作り変えてください。
 
 - ワークフローではソースコードをチェクアウトして `ls` コマンドを実行する
 
