@@ -4,5 +4,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "run on push"
+      - uses: actions/checkout@v4
+      - run: ls
 
