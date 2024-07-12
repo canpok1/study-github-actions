@@ -10,6 +10,7 @@
     - sample-appのビルドを実行
         - sample-appディレクトリ配下で `make build` を実行すればOK
 
+[回答例](./run-on-push.yml)
 
 ## 参考
 
