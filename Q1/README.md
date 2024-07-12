@@ -6,6 +6,9 @@
 - ワークフローでは `echo "Hello World"` を実行する
 - ワークフローは手動実行用とする
 
+[回答例](./hello-world.yml)
+
+
 ## 参考
 
 - [GitHub Actions を理解する](https://docs.github.com/ja/actions/learn-github-actions/understanding-github-actions)
