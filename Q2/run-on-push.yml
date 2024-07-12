@@ -1,0 +1,8 @@
+name: Run on push
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "run on push"
+
