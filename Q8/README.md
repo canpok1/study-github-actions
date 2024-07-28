@@ -9,9 +9,9 @@
         - sample-appディレクトリ配下で `make test` を実行すればOK
     - sample-appのビルドを実行
         - sample-appディレクトリ配下で `make build` を実行すればOK
-    - ビルドされたバイナリファイル `sample-app` をリリースする
+    - ビルドされたバイナリファイル `sample-app-binary` をリリースする
         - 次のコマンドを実行すればOK
-        - `gh release create {pushされたタグ名} sample-app/sample-app --generate-notes --verify-tag`
+        - `gh release create {pushされたタグ名} sample-app/sample-app-binary --generate-notes --verify-tag`
 
 [回答例](./run-on-push.yml)
 

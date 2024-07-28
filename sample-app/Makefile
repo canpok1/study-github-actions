@@ -3,4 +3,4 @@ run:
 test:
 	@go test ./...
 build:
-	@go build -o sample-app main.go
+	@go build -o sample-app-binary main.go
